@@ -1,0 +1,9 @@
+# Application properties
+/src/main/resources/application.properties
+
+/.idea/
+
+/target/
+
+onlineOrder.iml
+
